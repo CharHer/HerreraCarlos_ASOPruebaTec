@@ -51,5 +51,5 @@ private String generateRandomId(int length) {
 	}
 ```
 
-## Conclución
+## Conclusión
 Para la realización del proyecto se aplciaron los conocimientos obtenidos en el curso de Hack a Boss. Desde una perspectiva personal, se logro el objetivo de aplicar y consolidar los conocimientos adquiridos en diversas áreas, construyendo una API REST robusta y eficiente.
