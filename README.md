@@ -19,9 +19,9 @@ En este documento se registran los datos que pueden ser relevantes durante el de
 ## Resultados
 Se adjuntan imagenes de prueba de los resultados finales
 
-![Mapeo de la clase SrvHelloWorld al finalizar]((https://github.com/CharHer/HerreraCarlos_ASOPruebaTec/blob/master/SvrHelloWorld_final.png))
+![Mapeo de la clase SrvHelloWorld al finalizar](SvrHelloWorld_final.png)
 
-![Consumo del servicio al finalizar]([(https://github.com/CharHer/HerreraCarlos_ASOPruebaTec/blob/master/ConsumoServicioPOST.png))
+![Consumo del servicio al finalizar](ConsumoServicioPOST.png))
 
 ## Código
 Se trató de reproducir lo visto en clase.
